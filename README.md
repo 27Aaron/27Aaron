@@ -41,6 +41,15 @@
   </table>
   </div>
 
+  <!-- Contribution Snake -->
+  <div align="center">
+  <table>
+  <tr>
+  <td><a href="#--------"><img align="center" alt="Contribution Snake" src="./assets/snake/github-contribution-grid-snake-dark.svg"></a></td>
+  </tr>
+  </table>
+  </div>
+
   </details>
   </div>
 </details>
