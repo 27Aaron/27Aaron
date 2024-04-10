@@ -18,3 +18,8 @@ jobs:
           COMMIT_MESSAGE: "refactor: update activity"
           COMMIT_USERNAME: "27Aaron"
           COMMIT_EMAIL: "85681241+27Aaron@users.noreply.github.com"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_UPDATED_DATE: "False"
+          
