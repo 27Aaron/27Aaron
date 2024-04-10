@@ -52,6 +52,74 @@
 
 ## Weekly Activity Summary
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 18.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌆 Daytime                44 commits          ████████████████░░░░░░░░░   62.86 % 
+🌃 Evening                13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   11 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Tuesday                  13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Wednesday                16 commits          ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Thursday                 13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Sunday                   12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in CSS** 
+
+```text
+CSS                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+Nix                      1 repo              ████████████░░░░░░░░░░░░░   50.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/27Aaron/27Aaron/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/04/2024 07:29:52 UTC
 <!--END_SECTION:waka-->
 
   </details>
