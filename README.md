@@ -50,6 +50,11 @@
   </table>
   </div>
 
+## Weekly Activity Summary
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   </details>
   </div>
+  
 </details>
