@@ -22,4 +22,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
-          SHOW_PROJECTS: "False"   
+          SHOW_PROJECTS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          DEBUG_LOGGING: "False"
