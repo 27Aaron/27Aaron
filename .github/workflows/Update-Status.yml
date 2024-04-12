@@ -23,4 +23,3 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_PROJECTS: "False"
-          SYMBOL_VERSION: "2"
