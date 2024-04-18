@@ -16,9 +16,8 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 
-<p align="center">
 <summary><samp><b>Skills & Tools</b></samp></summary>
-</p>
+<br>
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <!-- Badges Search: https://github.com/Aveek-Saha/GitHub-Profile-Badges -->
