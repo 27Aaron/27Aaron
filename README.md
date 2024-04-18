@@ -16,8 +16,6 @@
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
 
-
-
 <summary><samp><b>Skills & Tools</b></samp></summary>
 <br>
 
