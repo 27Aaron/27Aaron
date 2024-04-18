@@ -4,7 +4,7 @@
       <b>
         Hello There
       <br>
-        I'm Aaron, INFP-T, I use linux and macOS.
+        I'm Aaron, INFJ-T, I use linux and macOS.
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=16&pause=1000&color=81A1C1&random=false&width=435&lines=The+world+is+full+of+lonely+people+afraid+to+make+the+first+move.">
