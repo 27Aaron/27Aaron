@@ -53,10 +53,21 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=JavaScript&logoColor=black)](https://www.w3schools.com/js/)
 
 <details>
+<summary><samp><b>&#9776; Myers–Briggs Type Indicator</b></samp></summary>
+  </summary>
+  <div align="center">
+  <table>
+  <tr>
+  <td><a href="https://www.16personalities.com/"><img align="center" alt="MBTI" src="./assets/mbti/MBTI.png"></a></td>
+  </tr>
+  </table>
+  </div>
+</details>
+</br>
 
+<details>
 <summary><samp><b>&#9776; See more details</b></samp></summary>
   </summary>
-
 
   <!-- Github Trophy -->
   <div align="center">
