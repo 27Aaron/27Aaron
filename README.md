@@ -6,12 +6,7 @@
       <br>
         I'm Aaron, INFJ-T, I use linux and macOS.
       </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=16&pause=1000&color=81A1C1&random=false&width=435&lines=The+world+is+full+of+lonely+people+afraid+to+make+the+first+move.">
-      <br>
-      <b>
-         ~ Green Book ~
-      </b>    </samp>
+    </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
