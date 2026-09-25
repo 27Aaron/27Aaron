@@ -65,13 +65,13 @@
 ## Weekly Activity Summary
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-592%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-599%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 88.5 kB Used in GitHub's Storage 
+> 📦 90.2 kB Used in GitHub's Storage 
  > 
-> 🏆 6,104 Contributions in the Year 2026
+> 🏆 6,109 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1721 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-🌆 Daytime                4620 commits        ███████████░░░░░░░░░░░░░░   43.96 % 
-🌃 Evening                3346 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌙 Night                  823 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+🌞 Morning                1759 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+🌆 Daytime                4715 commits        ███████████░░░░░░░░░░░░░░   44.11 % 
+🌃 Evening                3385 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌙 Night                  830 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Tuesday                  1400 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                1450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 2634 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Friday                   1040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Saturday                 1128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Sunday                   1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Monday                   1387 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Tuesday                  1404 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                1468 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 2699 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Friday                   1045 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Saturday                 1148 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Sunday                   1538 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
 
@@ -104,47 +104,47 @@ Sunday                   1523 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    30 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   31.68 % 
-Nix                      17 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Markdown                 11 hrs 57 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Go                       7 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-TypeScript               5 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Other                    31 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Nix                      16 hrs 59 mins      █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Markdown                 11 hrs 33 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Go                       7 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+YAML                     4 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🔥 Editors: 
-Firefox                  43 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.73 % 
-VS Code                  33 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   34.94 % 
-Codex Vscode             17 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
-Codex CLI                28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Grok Build               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Firefox                  46 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.55 % 
+VS Code                  26 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Codex Vscode             19 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Codex CLI                32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Grok Build               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      95 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      93 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 22 mins (31.7%)
+⏱ AI Coding Time: 30 hrs 15 mins (32.48%)
 
-✍️ 14,289 lines written by AI, 6,462 lines written by hand (68.86% AI-written)
+✍️ 20,904 lines written by AI, 1,879 lines written by hand (91.75% AI-written)
 
-🔤 169,246,978 Input Tokens, 3,764,241 Output Tokens
+🔤 115,964,770 Input Tokens, 3,715,847 Output Tokens
 
-💵 $2086.90 Estimated AI Cost This Week
+💵 $1900.80 Estimated AI Cost This Week
 
-🧠 121 AI Sessions, 992 AI Prompts
+🧠 106 AI Sessions, 804 AI Prompts
 
-GPT                      14,681 lines        ████████████████████████░   96.87 % 
-Glm                      363 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Codex-Vscode             112 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+GPT                      21,320 lines        ████████████████████████░   97.82 % 
+Glm                      363 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Codex-Vscode             112 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.86% of written lines came from AI
-📚 Verbose Prompter — average 3,087 characters per prompt
+🤖 AI-Driven — 91.75% of written lines came from AI
+📚 Verbose Prompter — average 3,515 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 48.86% of changed lines were hand-edited
+🚀 High AI Trust — 14.52% of changed lines were hand-edited
 ```
 
 
